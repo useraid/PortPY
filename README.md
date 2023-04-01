@@ -1,2 +1,2 @@
 # PortPY
-Simple Python-3 Based Port scanner.
+Simple GUI, Python-3 Based Multi-threaded Port scanner.
